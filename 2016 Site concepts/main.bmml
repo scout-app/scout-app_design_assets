@@ -1,0 +1,178 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="984" measuredH="2674" mockupW="974" mockupH="2670">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="18" y="4" w="966" h="2670" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Scout-App%202%20Beta%0Ahttp%3A//thejaredwilcurt.github.io/scout-app-2</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="230" w="366" h="46" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <italic>false</italic>
+        <size>32</size>
+        <text>Sass%20for%20Web%20Designers</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="581" y="127" w="-1" h="-1" measuredW="270" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Install%2C%20Documentation%2C%20Blog%2C%20FAQ</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="140" y="335" w="192" h="50" measuredW="165" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Download%20ScoutApp%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Title" x="116" y="117" w="-1" h="-1" measuredW="216" measuredH="45" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ScoutApp%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="140" y="178" w="687" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TitleWindow" x="478" y="537" w="349" h="333" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>ScoutApp%202%20Beta</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="628" y="679" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>play-circle%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="528" y="770" w="-1" h="-1" measuredW="249" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Screenshot%20that%20links%20to%20a%20fullscreen%20video</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::HRule" x="116" y="101" w="735" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="601" w="290" h="228" measuredW="275" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Morbi%20leo%20risus%2C%20porta%20ac%20consectetur%20ac%2C%20vestibulum%20at%20eros.%20Nullam%20id%20dolor%20id%20nibh%20ultricies%20vehicula%20ut%20id%20elit.%20Fusce%20dapibus%2C%20tellus%20ac%20cursus%20commodo%2C%20tortor%20mauris%20condimentum%20nibh%2C%20ut%20fermentum%20massa%20justo%20sit%20amet%20risus.%20Donec%20id%20elit%20non%20mi%20porta%20gravida%20at%20eget%20metus.%20Duis%20mollis%2C%20est%20non%20commodo%20luctus%2C%20nisi%20erat%20porttitor%20ligula%2C%20eget%20lacinia%20odio%20sem%20nec%20elit.%20Curabitur%20blandit%20tempus%20porttitor.%0A%20%0A%5BWhat%20is%20Sass%3F%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Title" x="140" y="553" w="-1" h="-1" measuredW="294" measuredH="33" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>No%20Developer%20Required</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="276" w="322" h="80" measuredW="275" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>A%20nifty%20little%20slogan%20about%20how%20awesome%20Node%20and%20Sass%20are%20together.</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="614" y="240" w="180" h="180" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="10" y="490" w="966" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="10" y="929" w="966" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="555" y="1005" w="-1" h="-1" measuredW="148" measuredH="33" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>What%27s%20New</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Paragraph" x="555" y="1054" w="272" h="148" measuredW="275" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>The%20ScoutApp%20has%20been%20completely%20redesigned%20to%20feature%20the%20latest%20technologies%20in%20web%20design%20including%20Node.js%20and%20Sass.%20In%20ScoutApp%202%20designers%20are%20able%20to%20work%20at%20lightning%20speeds%20in%20a%20now%20cross-platform%20UI.%0A%20%0A%5BCheck%20out%20the%20code%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::HRule" x="10" y="1389" w="966" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Title" x="140" y="1440" w="-1" h="-1" measuredW="324" measuredH="33" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Supported%20Mixin%20Libraries</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::DataGrid" x="140" y="989" w="372" h="323" measuredW="358" measuredH="141" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Scout%20Comparison%2C%200.7.1%2C%202.0.1%0ASass%20Version%2C%202012%20%28Ruby%29%2C%202016%20%28SassC%29%0ATechnology%2C%20Air%5C%2C%20Java%5C%2C%20Ruby%2C%20NW.js%5C%2C%20Node%0ACross-Platform%2C%20Windows%5C%2C%20OSX%2C%20Windows%5C%2C%20OSX%5C%2C%20Linux%0A...%2C%20...%2C%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="1489" w="400" h="200" measuredW="275" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>When%20writing%20code%20in%20CSS%2C%20you%20may%20find%20yourself%20writing%20code%20over%20and%20over%20again.%20Mixins%20allow%20you%20to%20make%20groups%20of%20CSS%20code%20so%20that%20you%20may%20reuse%20it%20throughout%20your%20project%2C%20resulting%20in%20less%20code.%0A%20%0AIn%20ScoutApp%202%2C%20you%20can%20use%20preconfigured%20mixin%20libraries%20made%20by%20some%20awesome%20people.%20To%20implement%20these%20mixins%2C%20all%20you%20have%20to%20do%20is%20include%20%22@import%20%3Clibrary%3E%22%20into%20your%20code.%0A%20%0A%5BSupported%20libraries%5D%20%28Links%20to%20Github%20table%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="587" y="1473" w="240" h="200" measuredW="77" measuredH="79" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Example%20Code</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::HRule" x="18" y="1746" w="966" h="-1" measuredW="100" measuredH="10" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::SubTitle" x="140" y="1797" w="-1" h="-1" measuredW="103" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Languages</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="1836" w="290" h="208" measuredW="275" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>In%20ScoutApp%202%2C%20language%20support%20is%20very%20important.%20We%20are%20always%20looking%20to%20support%20more%20languages%20and%20if%20you%20want%20to%20contribute%20got%20to%20the%20%5BTranslate%20ScoutApp%202%5D%20page.%0A%20%0ASupported%20Languages%3A%0A%20%0A*%20English%0A*%20French%0A*%20Russian</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="494" y="1797" w="-1" h="-1" measuredW="127" measuredH="23" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Requirements</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="494" y="1836" w="333" h="208" measuredW="275" measuredH="80" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Don%27t%20worry%2C%20ScoutApp%202%20doesn%27t%20need%20that%20much.%0A%28Detect%20OS%20for%20information%29%0A%20%0AMinumum%20OS%20Requirements%3A%0A%20%0A*%20Mac%20OSX%2010.2%20or%20later%0A*%2012%20GB%20of%20storage%0A*%20512%20MB%20or%20RAM%0A*%2064-bit%20processor</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::HRule" x="18" y="2060" w="966" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Paragraph" x="327" y="2545" w="332" h="57" measuredW="275" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Created%20by%20%5B@TheJaredWilcurt%5D%20and%20%5BProject%20Sunday%5D%0A%20%0ASource%20Code%3A%20%5BGithub%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Paragraph" x="99" y="391" w="275" h="39" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>13</size>
+        <text>For%20OSX%2010.7%20and%20later.%0A%5BOther%20Downloads%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::HRule" x="18" y="2493" w="966" h="-1" measuredW="100" measuredH="10" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Title" x="140" y="2113" w="-1" h="-1" measuredW="322" measuredH="37" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Download%20ScoutApp%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="2162" w="388" h="128" measuredW="275" measuredH="80" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>ScoutApp%202%20is%20cross-platform%20and%20available%20on%20Windows%2C%20Mac%20OSX%2C%20and%20Linux.%20If%20you%20can%27t%20find%20what%20your%20looking%20for%2C%20check%20out%20the%20%5BGithub%5D%20repo%20and%20do%20as%20you%20please.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
